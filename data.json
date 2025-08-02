@@ -1,0 +1,49 @@
+{
+  "intern": {
+    "name": "Monika S",
+    "referralCode": "REF123MONIKA",
+    "donations": 3700
+  },
+  "leaderboard": [
+    {
+      "name": "Monika S",
+      "donations": 3700
+    },
+    {
+      "name": "Shiv K",
+      "donations": 3200
+    },
+    {
+      "name": "Ananya R",
+      "donations": 2800
+    },
+    {
+      "name": "Rahul P",
+      "donations": 2500
+    },
+    {
+      "name": "Sneha L",
+      "donations": 2400
+    },
+    {
+      "name": "Karthik M",
+      "donations": 2000
+    },
+    {
+      "name": "Divya T",
+      "donations": 1800
+    },
+    {
+      "name": "Nikhil G",
+      "donations": 1600
+    },
+    {
+      "name": "Sahana K",
+      "donations": 1500
+    },
+    {
+      "name": "Vikas B",
+      "donations": 1400
+    }
+  ]
+}
